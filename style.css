@@ -44,3 +44,15 @@ body {
   outline: none;
   color: rgb(100, 100, 100);
 }
+
+.active.search-bar-container {
+  width: 50px;
+}
+
+.active .input {
+  width: 0;
+}
+
+.active .microphone {
+  width: 0;
+}
